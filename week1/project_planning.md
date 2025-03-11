@@ -48,3 +48,5 @@
 Notion 등을 활용해 일정 관리 
 
 <h2>참고문헌 및 사이트</h2>
+
+https://www.mixamo.com/
