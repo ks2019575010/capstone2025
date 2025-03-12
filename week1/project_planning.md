@@ -27,7 +27,7 @@
 
 2.2 개발 도구 및 기술 스택
 
-게임 엔진: Unreal Engine (버전5.4.2)
+게임 엔진: Unreal Engine (버전5.4.4)
 
 프로그래밍 언어: Blueprints, C++
 
