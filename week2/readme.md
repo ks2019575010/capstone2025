@@ -57,6 +57,10 @@ Mixamo converter를 이용했다.
 
 3/17
 
+![스크린샷(1787)](https://github.com/user-attachments/assets/ba3eabf3-6847-46d4-91be-df3d16f66c40)
+
+![스크린샷(1788)](https://github.com/user-attachments/assets/78c3e87e-fdd2-458b-a884-c04aa4ddc516)
+
 sword trace 그래프를 만들어 칼을 휘두르는 모션에 닿으면 데미지를 입히게 만듬
 
 애님 노티파이 스테이트를 만들어 노티파이 begin, end 설정
