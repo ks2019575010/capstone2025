@@ -54,13 +54,14 @@ https://terribilisstudio.fr/?section=home#close <- 사이트
 
 ![스크린샷(1788)](https://github.com/user-attachments/assets/78c3e87e-fdd2-458b-a884-c04aa4ddc516)
 
-sword trace 그래프를 만들어 칼을 휘두르는 모션에 닿으면 데미지를 입히게 만듬
+![스크린샷(1792)](https://github.com/user-attachments/assets/3fc463c4-78c7-49ae-866b-12a26b25005d)
 
 애님 노티파이 스테이트를 만들어 노티파이 begin, end 설정
 
-원하는 모션만 타격판정에 들어가도록 설정
+sword trace 그래프를 만들어 칼을 휘두르는 모션에서 원하는 타이밍에 sphere가 생성되어 닿으면 데미지가 들어가도록 설정
 
 실행되는 애니메이션이 길어서 녹화를 이용해 줄임
+
 
 다음으로 만들것 : 몬스터
 
