@@ -1,3 +1,3 @@
 # capstone2025
 
-https://drive.google.com/drive/u/0/folders/1MvJh4dgYiAXKtcGwVys6nrDpHOn9XgT9
+https://drive.google.com/file/d/1_nLyl79vR9pKLKeXVFE-9K0EO40t-4rw/view?usp=drive_link
